@@ -1,7 +1,19 @@
 # 🧠 Local Chatbot using Ollama (gemma2:2b) + LangChain + Streamlit
 
 A lightweight, fully local AI chatbot powered by **Ollama's `gemma2:2b` model**, built using **LangChain** for prompt management and **Streamlit** for an interactive web interface. Optional integration with **LangSmith** provides tracing and debugging capabilities for prompt-response evaluation.
+---
+## 📸 Demo Screenshots
 
+### 🖥️ Application UI
+![Application UI](Application_UI.png)
+
+### 📝 Example Input to Model
+![Example Input](Example_Input_to_Model.png)
+
+### 💡 Example Output from Model
+![Example Output](Example_Output_to_Model.png)
+
+---
 ---
 
 ## 🚀 Features
