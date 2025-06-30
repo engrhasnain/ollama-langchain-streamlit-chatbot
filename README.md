@@ -58,7 +58,7 @@ streamlit run app.py
 ```
 
 
-## Project Structure
+### Project Structure
 ```bash
 .
 ├── app.py               # Main application
@@ -66,3 +66,7 @@ streamlit run app.py
 ├── requirements.txt     # Python dependencies
 └── README.md            # Project documentation
 ```
+### 🧑‍💻 Author
+Muhammad Hasnain Pirzada
+Connect with me on [LinkdIn](https://www.linkedin.com/in/muhammad-hasnain-pirzada-335816201)
+GitHub: @engrhasnain
